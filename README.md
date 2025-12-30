@@ -128,7 +128,7 @@ Responsive and user-friendly design
 
 Clone the repository:
 
-git clone https://github.com/your-username/rock-paper-scissors.git
+git clone https://github.com/sabiraS/Rock_paper_scissors/edit/sabiraS
 
 
 Open the project folder.
